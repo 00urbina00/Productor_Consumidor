@@ -1,0 +1,2 @@
+# Productor_Consumidor
+ Ejemplo clásico de problema de sincronización de procesos. Hay un productor y un consumidor, ambos comparten un buffer de tamaño finito. El productor se dedica a meter producto en el contenedor y el consumidor a sacar producto. Para que el productor pueda entrar debe haber espacio para colocar el producto además de que el consumidor no esté en el contenedor; por el contrario, para que el consumidor pueda ingresar debe haber producto que pueda sacar y el productor no debe estar dentro. 

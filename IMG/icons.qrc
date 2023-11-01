@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="prefijoNuevo">
+    <file>1023047.png</file>
+    <file>1830839.png</file>
+    <file>4419495.png</file>
+    <file>5200000.png</file>
+    <file>6012428.png</file>
+    <file>6051190.png</file>
+    <file>10277807.png</file>
+    <file>taco.png</file>
+  </qresource>
+</RCC>
